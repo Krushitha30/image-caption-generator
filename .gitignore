@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Dataset (too large for git, and not code)
+Images/
+captions.txt
+
+# Generated files
+tokenizer.pkl
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
